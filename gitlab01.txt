@@ -1,1 +1,2 @@
 This is an exercise for git operations.
+Made some modifications of the file.
